@@ -905,19 +905,19 @@
         <carbon.analytics.common.version>5.1.7</carbon.analytics.common.version>
 
         <!-- APIM Component Version -->
-        <carbon.apimgt.version>6.1.135</carbon.apimgt.version>
+        <carbon.apimgt.version>6.1.144-SNAPSHOT</carbon.apimgt.version>
         <carbon.apimgt.imp.pkg.version>[6.0.0, 7.0.0)</carbon.apimgt.imp.pkg.version>
 
         <!-- Carbon Registry -->
-        <carbon.registry.version>4.6.0</carbon.registry.version>
+        <carbon.registry.version>4.6.19</carbon.registry.version>
         <carbon.registry.package.import.version.range>[4.5.4, 5.0.0)</carbon.registry.package.import.version.range>
 
 
         <!-- Carbon Governance -->
-        <carbon.governance.version>4.7.0</carbon.governance.version>
+        <carbon.governance.version>4.7.15</carbon.governance.version>
 
         <!--carbon versions-->
-        <carbon.kernel.version>4.4.11</carbon.kernel.version>
+        <carbon.kernel.version>4.4.18</carbon.kernel.version>
         <apimserver.version>2.1.1-SNAPSHOT</apimserver.version>
         <ws.feature.version>1.4.2</ws.feature.version>
 
@@ -931,7 +931,7 @@
 
         <!-- carbon identity -->
         <carbon.identity.version>5.7.5</carbon.identity.version>
-        <carbon.identity-inbound-auth-oauth.version>5.3.4</carbon.identity-inbound-auth-oauth.version>
+        <carbon.identity-inbound-auth-oauth.version>5.3.35</carbon.identity-inbound-auth-oauth.version>
         <carbon.identity-user-ws.version>5.1.4</carbon.identity-user-ws.version>
         <carbon.identity-carbon-auth-saml2.version>5.2.0</carbon.identity-carbon-auth-saml2.version>
         <carbon.identity-inbound-auth-openid.version>5.2.1</carbon.identity-inbound-auth-openid.version>
